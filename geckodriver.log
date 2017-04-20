@@ -1,0 +1,274 @@
+1492427328545	geckodriver	INFO	Listening on 127.0.0.1:52207
+1492427329880	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kh12aDMTEQZ7
+1492427329890	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492427329901	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42127
+1492427333340	Marionette	INFO	Listening on port 42127
+1492427334639	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:10625): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:10625): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+1492510791830	geckodriver	INFO	Listening on 127.0.0.1:37247
+1492510792022	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mIzGb3sbEs9t
+1492510792024	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492510792041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45853
+1492510795055	Marionette	INFO	Listening on port 45853
+1492510795842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492510946532	geckodriver	INFO	Listening on 127.0.0.1:48161
+1492510947704	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mjw7bM5c22gh
+1492510947705	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492510947721	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33127
+1492510948961	Marionette	INFO	Listening on port 33127
+1492510949687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492510986784	geckodriver	INFO	Listening on 127.0.0.1:39829
+1492510987934	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BNbqZ8VPU3yy
+1492510987951	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492510987960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41335
+1492510989187	Marionette	INFO	Listening on port 41335
+1492510989883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492511543589	geckodriver	INFO	Listening on 127.0.0.1:41051
+1492511544675	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VQovzY0g6xL3
+1492511544679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492511544694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43911
+1492511545610	Marionette	INFO	Listening on port 43911
+1492511546034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://us-ads.openx.net/w/1.0/jstag, line 9: Error: Permission denied to access property "realvu"
+JavaScript error: https://us-ads.openx.net/w/1.0/jstag, line 9: Error: Permission denied to access property "realvu"
+1492511875127	addons.xpi	WARN	Add-on firebug@software.joehewitt.com is not correctly signed.
+1492511875134	addons.xpi	WARN	Download of http://getfirebug.com/releases/firebug/3.0/firebug-3.0.0-alpha.1.xpi failed: signature is required but missing
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:472:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:472:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+Line: 1281, column: 20
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode640
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492512113433	geckodriver	INFO	Listening on 127.0.0.1:35083
+1492512114655	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4gJZ8y2lCiCI
+1492512114657	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492512114668	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43543
+1492512115893	Marionette	INFO	Listening on port 43543
+1492512116517	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:488:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:429:5
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:488:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype.onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:429:5
+Line: 1660, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1660"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1660:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:621:5
+NetworkResponseListener.prototype.onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:578:7
+NetworkResponseListener.prototype.onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:669:7
+Line: 1660, column: 0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x860007,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x46010A,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1492512260026	geckodriver	INFO	Listening on 127.0.0.1:60561
+1492512261140	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SUuZRbiMlQ9I
+1492512261143	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492512261150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42469
+1492512261974	Marionette	INFO	Listening on port 42469
+1492512262396	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492513638005	geckodriver	INFO	Listening on 127.0.0.1:45303
+1492513638305	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zqbokZPMUmhH
+1492513638307	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492513638317	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44575
+1492513640600	Marionette	INFO	Listening on port 44575
+1492513641181	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AE,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1492596980574	geckodriver	INFO	Listening on 127.0.0.1:52033
+1492596980796	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7oNcAJgI7Qv1
+1492596980799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492596980817	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40451
+1492596984994	Marionette	INFO	Listening on port 40451
+1492596985709	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492598009243	geckodriver	INFO	Listening on 127.0.0.1:51311
+1492598010427	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9iX7jElsSyf1
+1492598010428	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492598010448	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46591
+1492598011751	Marionette	INFO	Listening on port 46591
+1492598012217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492598053140	geckodriver	INFO	Listening on 127.0.0.1:39647
+1492598054252	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pyOElAeWKW8n
+1492598054256	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492598054262	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35683
+1492598055031	Marionette	INFO	Listening on port 35683
+1492598055368	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492598608986	geckodriver	INFO	Listening on 127.0.0.1:51155
+1492598610229	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FHNHtUL0A1ho
+1492598610240	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492598610251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33633
+1492598611541	Marionette	INFO	Listening on port 33633
+1492598611999	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492600835249	geckodriver	INFO	Listening on 127.0.0.1:60623
+1492600835541	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.A61h0An8VenO
+1492600835547	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492600835584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42013
+1492600838792	Marionette	INFO	Listening on port 42013
+1492600839573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492601149897	geckodriver	INFO	Listening on 127.0.0.1:39845
+1492601150276	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DNJ9f2fNgpqT
+1492601150277	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492601150294	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38867
+1492601154072	Marionette	INFO	Listening on port 38867
+1492601155624	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492682839900	geckodriver	INFO	Listening on 127.0.0.1:46153
+1492682840540	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TgE7plIawDBV
+1492682840541	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492682841344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46333
+1492682861018	Marionette	INFO	Listening on port 46333
+1492682863656	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1659] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 1659] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3197: TypeError: this.tabs is undefined
+[Child 1449] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 1449] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+ExceptionHandler::GenerateDump cloned child 21672
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x460043,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
